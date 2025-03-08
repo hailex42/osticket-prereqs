@@ -106,3 +106,9 @@ Disable inheritance -> Remove All
 New Permissions -> Everyone -> All
 </p>
 
+![image](https://github.com/user-attachments/assets/2ecf9dd8-f90a-4721-90a0-002131c8a491)
+
+<p>Continue Setting up osTicket in the browser (click Continue)
+Name Helpdesk
+Default email (receives email from customers)
+</p>
