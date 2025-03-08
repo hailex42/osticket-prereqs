@@ -37,7 +37,11 @@ World Wide Web Services -> Application Development Features -> [X] CGI
 From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
 From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
+</p>
 
+![image](https://github.com/user-attachments/assets/7ebcd31f-992e-4e1a-a51d-d9061494b3bb)
+
+<p>
 Create the directory C:\PHP
 
 From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
