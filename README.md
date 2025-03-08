@@ -69,12 +69,12 @@ Reload IIS (Open IIS, Stop and Start the server)
 
 ![image](https://github.com/user-attachments/assets/89447d07-bb76-4b2b-8013-1ea58509396b)
 
-![image](https://github.com/user-attachments/assets/96463a88-9809-4fcf-8687-bbaeec5f359e)
-
-
 <p>Install osTicket v1.15.8
 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
-Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket” </p>
+
+![image](https://github.com/user-attachments/assets/96463a88-9809-4fcf-8687-bbaeec5f359e)
+<p>
 Reload IIS (Open IIS, Stop and Start the server)
 </p>
 
