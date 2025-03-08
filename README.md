@@ -122,3 +122,11 @@ Create a new session, root/root
 Connect to the session
 Create a database called “osTicket”
 </p>
+
+![image](https://github.com/user-attachments/assets/4d3ebabc-9fd4-4d85-be1a-ed36c66a447b)
+<p>Continue Setting up osTicket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: root
+Click “Install Now!”
+</p>
