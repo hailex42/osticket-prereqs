@@ -68,8 +68,8 @@ Reload IIS (Open IIS, Stop and Start the server)
 </p>
 
 ![image](https://github.com/user-attachments/assets/89447d07-bb76-4b2b-8013-1ea58509396b)
-
-<p>Install osTicket v1.15.8
+<p>
+Install osTicket v1.15.8
 From the “osTicket-Installation-Files” folder, 
 Unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
 Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket” </p>
@@ -82,8 +82,29 @@ On the right, click “Browse *:80”
 </p>
 ![image](https://github.com/user-attachments/assets/1a214cb3-2a69-467f-9489-784eb5d60d7b)
 
+
+
+<p>Note that some extensions are not enabled
+Go back to IIS, sites -> Default -> osTicket
+Double-click PHP Manager
+Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+Refresh the osTicket site in your browser, observe the changes
+</p>
+
 ![image](https://github.com/user-attachments/assets/5bf60b41-ddd4-46f6-8bc6-d48754a1f762)
+<p> 
+Rename: ost-config.php
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+</p>
 
 ![image](https://github.com/user-attachments/assets/f41ba263-6632-4acd-b5e4-6da30918ff0a)
-
+<p>
+Assign Permissions: ost-config.php
+Disable inheritance -> Remove All
+New Permissions -> Everyone -> All
+</p>
 
