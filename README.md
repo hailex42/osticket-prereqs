@@ -76,5 +76,8 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket” </p>
 ![image](https://github.com/user-attachments/assets/96463a88-9809-4fcf-8687-bbaeec5f359e)
 <p>
 Reload IIS (Open IIS, Stop and Start the server)
+Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”
+
 </p>
 
