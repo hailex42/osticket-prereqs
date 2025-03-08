@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create Virtual Machine
+- Create Windows Virtual Machine
 - Download [osTicket](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) installation files and unzip to Windows-vm
 
 
