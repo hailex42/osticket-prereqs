@@ -105,21 +105,20 @@ Assign Permissions: ost-config.php
 Disable inheritance -> Remove All
 New Permissions -> Everyone -> All
 </p>
-![image](https://github.com/user-attachments/assets/1aad6aa9-fea9-43bc-a0d6-9c321b55e346)
-
-<p>
-From the “osTicket-Installation-Files” folder, install HeidiSQL.
-Open Heidi SQL
-Create a new session, root/root
-Connect to the session
-Create a database called “osTicket”
-
-</p>
-
 
 ![image](https://github.com/user-attachments/assets/2ecf9dd8-f90a-4721-90a0-002131c8a491)
 
 <p>Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
 Default email (receives email from customers)
+</p>
+
+![image](https://github.com/user-attachments/assets/83342901-7aca-4533-a4a5-dd5db8720414)
+<p>
+
+  From the “osTicket-Installation-Files” folder, install HeidiSQL.
+Open Heidi SQL
+Create a new session, root/root
+Connect to the session
+Create a database called “osTicket”
 </p>
